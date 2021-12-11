@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android project/BigNerdBranchProjects/app/src/main/res/layout/activity_cheat.xml" value="0.22282608695652173" />
         <entry key="..\:/Android project/BigNerdBranchProjects/app/src/main/res/layout/activity_main.xml" value="0.13044579533941236" />
+        <entry key="..\:/Android project/BigNerdBranchProjects/app/src/main/res/layout/content_main.xml" value="0.22282608695652173" />
+        <entry key="..\:/Android project/BigNerdBranchProjects/app/src/main/res/layout/fragment_first.xml" value="0.22282608695652173" />
+        <entry key="..\:/Android project/BigNerdBranchProjects/app/src/main/res/layout/fragment_second.xml" value="0.22192028985507245" />
       </map>
     </option>
   </component>
